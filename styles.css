@@ -1,6 +1,7 @@
 body {
   background: linear-gradient(90deg, red, blue);
   text-align: center;
+  font-family: arial, san-serif;
 }
 
 hr {
